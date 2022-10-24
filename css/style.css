@@ -1,0 +1,14 @@
+p {
+    color: chartreuse;
+}
+h1 {
+    background-color: darkcyan;
+    color:cornsilk;
+}
+h3 {
+    background-color: azure;
+    color: blue;
+}
+h1 + h3 {
+    color: deeppink;
+}
